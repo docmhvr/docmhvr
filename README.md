@@ -8,7 +8,7 @@
 ------
 
 <h3 align="center"> Tech Stack </h3>
-<p align="center">Python | C | C++ | Java |<br> Django | Flask | HTML | CSS | JavaScript | Bootstrap | Node.js <br>MySQL| MongoDB<br> PyQt | Tkinter | Git | React | Tableau | Spark | Tensorflow<br> </p>  
+<p align="center">Python | R | C | C++ | Java |<br> Django | Flask | HTML | CSS | JavaScript | React.js | Node.js <br>MySQL| MongoDB | Hadoop | Cassandra<br> PyQt | Tkinter | Git | React | Tableau | Spark | Tensorflow<br> </p>  
 
 ------
 
