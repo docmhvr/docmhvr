@@ -8,7 +8,7 @@
 ------
 
 <h3 align="center"> Tech Stack </h3>
-<p align="center">Python | R | C | C++ | SQL |<br> Django | Flask | HTML | CSS | JavaScript | React.js | Node.js <br> Postgres | MySQL | MongoDB | Hadoop | Cassandra <br> Pytorch | Tkinter | Git | React | Tableau | Spark | Tensorflow <br> AWS | CDK | Big Data Cloud | Tableau | Streamlit | LangChain | LLM's<br> </p>  
+<p align="center">Python | R | C | C++ | SQL |<br> Django | Flask | HTML | CSS | JavaScript | React.js | React Native <br> Postgres | MySQL | MongoDB | Hadoop | Cassandra | Neo4j | VectorDbs <br> Pytorch | Langchain | Huggingface | React | Airflow | Spark | Tensorflow | Tableau | Streamlit | Gradio<br> AWS | Sagemaker | Bedrock | GCP | Big Data Cloud | Docker | Kubernetes | Linux | Selenium | Git (CI/CD)<br> </p>  
 
 ------
 
